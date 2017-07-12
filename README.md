@@ -1,6 +1,7 @@
 # Java-learning
 2017.7.9
 第一天接触java，使用练习使用mian入口和变量
+class后类的名称，需要和文本保存的名称一致
 变量类型：
   整型  byte short int long---整数
   浮点型 float double--小数
